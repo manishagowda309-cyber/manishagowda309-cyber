@@ -1,148 +1,144 @@
-<h1 align="center">👋 Hi, I'm Manisha Gowda</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Data Visualization</h3>
+<div align="center">
 
-<p align="center">
-Computer Science and Engineering student passionate about data analytics, visualization, and building practical technology solutions.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi,+I'm+Manisha+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
 
-<p align="center">
-  <a href="https://github.com/manishagowda309-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/manisha-hy-a472822ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manishagowda309@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://github.com/manishagowda309-cyber">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/manisha-hy-a472822ba">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:manishagowda309@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI;Building+AI-powered+career+tools;Always+learning%2C+always+building)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=manishagowda309-cyber&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="profile views"/>
+
+</div>
+
+<br/>
 
 ## 🧑‍💻 About Me
 
-Computer Science and Engineering student with a strong foundation in Data Analytics, SQL, Python, and Business Intelligence. Interested in data cleaning, exploratory data analysis, dashboard development, and extracting meaningful insights from datasets. Currently building practical projects that combine data analytics, software development, and AI-powered career intelligence.
+- 🎓 CSE student at **Sampoorna Institute of Technology and Research** (2023–2027) · CGPA **8.3/10**
+- 📊 Focused on **data analytics, visualization, and BI-driven decision-making**
+- 🧹 Comfortable across the full analytics loop: cleaning → transforming → analyzing → visualizing
+- 🤖 Currently building an **AI-powered career intelligence platform** with skill-gap analysis
+- 🎯 Looking for an entry-level **Data Analyst** role
 
----
+<br/>
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-**🎓 Bachelor of Engineering (B.E.), Computer Science and Engineering**
-Sampoorna Institute of Technology and Research
-📅 2023 – 2027 &nbsp;|&nbsp; 📈 CGPA: 8.3/10
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,git,github,vscode" alt="core skills"/>
 
-## 🛠️ Technical Skills
+<br/><br/>
 
-**💻 Programming**
-Python • SQL
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-**📊 Data Analytics**
-Microsoft Excel • Pandas • NumPy • Data Cleaning • Data Transformation • Exploratory Data Analysis (EDA)
+</div>
 
-**📈 Data Visualization**
-Power BI • Excel Dashboards • Pivot Tables • Charts
+<br/>
 
-**🗄️ Databases**
-MySQL • DBMS
+## 🚀 Featured Projects
 
-**🛠️ Tools**
-Git • GitHub • VS Code
+**🔹 AI-Powered Learning, Skill Tracking & Career Intelligence Platform**
+`Python` `SQL` `HTML` `CSS` `JavaScript`
+- Built an AI-based platform that analyzes user skills and recommends career paths
+- Designed the database schema for user profiles, skills, and learning progress
+- Ran skill-gap analysis and generated personalized learning/career recommendations
 
-**🌐 Web Technologies**
-HTML • CSS • JavaScript
+**🔹 Sales Data Analysis Dashboard**
+`Excel` `SQL` `Power BI`
+- Cleaned and transformed raw sales datasets, then analyzed trends and customer performance
+- Built KPIs and interactive Power BI dashboards
+- Delivered business-oriented insights to support data-driven decisions
 
-**📚 Core Subjects**
-Data Structures • Operating Systems • Computer Networks • DBMS
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 📊 GitHub Stats
 
-> **SQL** and **Power BI** are core strengths, listed above alongside the badges.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=manishagowda309-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishagowda309-cyber&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-## 🚀 Projects
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishagowda309-cyber&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
-### 🔹 AI-Powered Learning, Skill Tracking & Career Intelligence Platform (2026)
-**Tech Stack:** Python, SQL, HTML, CSS, JavaScript
+<img src="https://github-profile-trophy.vercel.app/?username=manishagowda309-cyber&theme=tokyonight&column=-1&margin-w=10" alt="trophies"/>
 
-- Developed an AI-based platform to analyze user skills and recommend suitable career paths.
-- Designed database structures for storing user profiles, skills, and learning progress.
-- Performed data analysis to identify skill gaps and generate personalized recommendations.
-- Created reports to visualize learning progress and career readiness.
+</div>
 
-### 🔹 Sales Data Analysis Dashboard
-**Tech Stack:** Excel, SQL, Power BI
+<br/>
 
-- Cleaned and transformed sales datasets using Excel and SQL queries.
-- Analyzed sales trends, customer performance, and business metrics.
-- Built interactive Power BI dashboards using KPIs and visual reports.
-- Generated insights to support data-driven business decisions.
+## 🧊 3D Contribution Graph
 
----
+Regular green squares are fine, but a real 3D bar-chart version of your contribution calendar is the thing people actually stop and look at. It's generated by a small GitHub Action ([`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib)) that runs once a day and commits an SVG into your own profile repo — so it's genuinely yours, not a hotlinked demo image.
 
-## 📊 GitHub Statistics
+<details>
+<summary><b>⚙️ One-time setup (click to expand)</b></summary>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manishagowda309-cyber&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishagowda309-cyber&layout=compact&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishagowda309-cyber&hide_border=true" />
-</p>
+**1. Confirm your profile repo exists**
+It's the repo named exactly `manishagowda309-cyber/manishagowda309-cyber` — this README lives inside it.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishagowda309-cyber&theme=flat&no-frame=true&row=1&column=6" />
-</p>
+**2. Add a workflow file** at `.github/workflows/profile-3d.yml`:
 
----
+```yaml
+name: GitHub-Profile-3D-Contrib
 
-## 🌱 Areas of Interest
+on:
+  schedule:
+    - cron: "0 18 * * *"   # runs once a day
+  workflow_dispatch:
 
-- Data Analytics
-- Python
-- SQL
-- Power BI
-- Data Visualization
-- Business Intelligence
-- AI-powered career intelligence
-- Skill-gap analysis
+permissions:
+  contents: write
 
----
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then git push; fi
+```
 
-## 🎯 Career Objective
+**3. Run it once manually** — go to **Actions → GitHub-Profile-3D-Contrib → Run workflow**.
 
-Seeking an entry-level Data Analyst opportunity to apply analytical skills and support data-driven decision-making.
+**4. Add the image to this README** once the Action has committed the SVGs to `profile-3d-contrib/`:
 
----
+```markdown
+![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+```
 
-## 🏆 Highlights
+Other style options to swap in: `profile-green-animate`, `profile-season-animate`, `profile-night-view`, `profile-gitblock`.
 
-- Built data analytics projects using Excel, SQL, Python, and Power BI.
-- Hands-on experience in data cleaning, pivot tables, lookup functions, and dashboard creation.
-- Practicing advanced SQL queries and Python-based data analysis techniques.
-- Improving analytical thinking and problem-solving skills through real-world datasets.
+</details>
 
----
+<br/>
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/manishagowda309-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/manisha-hy-a472822ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manishagowda309@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+⭐ Thanks for stopping by — always happy to connect over data, dashboards, or an interesting dataset!
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manishagowda309-cyber&style=flat&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
+</div>
